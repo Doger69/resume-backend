@@ -1,0 +1,8 @@
+fastapi
+uvicorn
+pdfplumber
+PyPDF2
+scikit-learn
+reportlab
+nltk
+fpdf
